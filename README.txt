@@ -1,0 +1,1 @@
+Download the latest 3d visualizer.txt, and change the file extention to .sb3. Go to turbowarp.org and upload that.
